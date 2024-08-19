@@ -1,0 +1,81 @@
+Log created: 2024-08-09 07:11:31
+Type: backup
+[2024-08-09 07:11:32][notice]Start backing up.
+[2024-08-09 07:11:32][notice]server info fcgi:Off max execution time: 300 wp version:6.5.5 php version:8.2.19 db version:8.0.36 php ini:safe_mode: memory_limit:256M memory_get_usage:20.84 MB memory_get_peak_usage:21.30 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2024-08-09 07:11:32][notice]Prepare to backup backup_db files.
+[2024-08-09 07:11:32][notice]Start exporting database.
+[2024-08-09 07:11:32][notice]Preparing to dump table wp_gf_form
+[2024-08-09 07:11:32][notice]Preparing to dump table wp_hfcm_scripts
+[2024-08-09 07:11:32][notice]Preparing to dump table wp_e_events
+[2024-08-09 07:11:32][notice]Preparing to dump table wp_gf_addon_feed
+[2024-08-09 07:11:32][notice]Preparing to dump table wp_gf_draft_submissions
+[2024-08-09 07:11:32][notice]Preparing to dump table wp_links
+[2024-08-09 07:11:32][notice]Preparing to dump table wp_term_relationships
+[2024-08-09 07:11:32][notice]Preparing to dump table wp_yoast_migrations
+[2024-08-09 07:11:32][notice]Preparing to dump table wp_commentmeta
+[2024-08-09 07:11:32][notice]Preparing to dump table wp_e_submissions_values
+[2024-08-09 07:11:32][notice]Preparing to dump table wp_gf_entry
+[2024-08-09 07:11:32][notice]Preparing to dump table wp_gf_entry_notes
+[2024-08-09 07:11:32][notice]Preparing to dump table wp_gf_form_meta
+[2024-08-09 07:11:32][notice]Preparing to dump table wp_gf_form_revisions
+[2024-08-09 07:11:33][notice]Preparing to dump table wp_gf_form_view
+[2024-08-09 07:11:33][notice]Preparing to dump table wp_gf_rest_api_keys
+[2024-08-09 07:11:33][notice]Preparing to dump table wp_term_taxonomy
+[2024-08-09 07:11:33][notice]Preparing to dump table wp_termmeta
+[2024-08-09 07:11:33][notice]Preparing to dump table wp_terms
+[2024-08-09 07:11:33][notice]Preparing to dump table wp_usermeta
+[2024-08-09 07:11:33][notice]Preparing to dump table wp_yoast_primary_term
+[2024-08-09 07:11:33][notice]Preparing to dump table wp_yoast_seo_links
+[2024-08-09 07:11:33][notice]Preparing to dump table wp_e_notes_users_relations
+[2024-08-09 07:11:33][notice]Preparing to dump table wp_gf_entry_meta
+[2024-08-09 07:11:33][notice]Preparing to dump table wp_users
+[2024-08-09 07:11:33][notice]Preparing to dump table wp_yoast_indexable_hierarchy
+[2024-08-09 07:11:33][notice]Preparing to dump table wp_comments
+[2024-08-09 07:11:33][notice]Preparing to dump table wp_posts
+[2024-08-09 07:11:33][notice]Preparing to dump table wp_yoast_indexable
+[2024-08-09 07:11:33][notice]Preparing to dump table wp_e_submissions_actions_log
+[2024-08-09 07:11:33][notice]Preparing to dump table wp_e_notes
+[2024-08-09 07:11:33][notice]Preparing to dump table wp_postmeta
+[2024-08-09 07:11:33][notice]Preparing to dump table wp_e_submissions
+[2024-08-09 07:11:33][notice]Preparing to dump table wp_options
+[2024-08-09 07:11:33][notice]Exporting database finished.
+[2024-08-09 07:11:33][notice]Start compressing database
+[2024-08-09 07:11:33][notice]Prepare to zip file. file: furiouzdesigns.wpenginepowered.com_wpvivid-66b5c123d4a85_2024-08-09-07-11_backup_db.sql
+[2024-08-09 07:11:33][notice]Adding zip files completed.furiouzdesigns.wpenginepowered.com_wpvivid-66b5c123d4a85_2024-08-09-07-11_backup_db.part001.zip, filesize: 169.21 KB
+[2024-08-09 07:11:33][notice]Compressing database completed
+[2024-08-09 07:11:33][notice]Backing up backup_db completed.
+[2024-08-09 07:11:33][notice]Prepare to backup backup_themes files.
+[2024-08-09 07:11:33][notice]Compressing zip file:furiouzdesigns.wpenginepowered.com_wpvivid-66b5c123d4a85_2024-08-09-07-11_backup_themes.part001.zip index:390
+[2024-08-09 07:11:34][notice]Compressing zip file:furiouzdesigns.wpenginepowered.com_wpvivid-66b5c123d4a85_2024-08-09-07-11_backup_themes.part001.zip success. index:390 file size:11.32 MB
+[2024-08-09 07:11:34][notice]Backing up backup_themes completed.
+[2024-08-09 07:11:34][notice]Prepare to backup backup_plugin files.
+[2024-08-09 07:11:34][notice]Compressing zip file:furiouzdesigns.wpenginepowered.com_wpvivid-66b5c123d4a85_2024-08-09-07-11_backup_plugin.part001.zip index:4719
+[2024-08-09 07:11:44][notice]Compressing zip file:furiouzdesigns.wpenginepowered.com_wpvivid-66b5c123d4a85_2024-08-09-07-11_backup_plugin.part001.zip success. index:4719 file size:24.46 MB
+[2024-08-09 07:11:44][notice]Backing up backup_plugin completed.
+[2024-08-09 07:11:44][notice]Prepare to backup backup_uploads files.
+[2024-08-09 07:11:44][notice]Compressing zip file:furiouzdesigns.wpenginepowered.com_wpvivid-66b5c123d4a85_2024-08-09-07-11_backup_uploads.part001.zip index:158
+[2024-08-09 07:11:46][notice]Compressing zip file:furiouzdesigns.wpenginepowered.com_wpvivid-66b5c123d4a85_2024-08-09-07-11_backup_uploads.part001.zip success. index:158 file size:35.41 MB
+[2024-08-09 07:11:46][notice]Backing up backup_uploads completed.
+[2024-08-09 07:11:46][notice]Prepare to backup backup_content files.
+[2024-08-09 07:11:46][notice]Compressing zip file:furiouzdesigns.wpenginepowered.com_wpvivid-66b5c123d4a85_2024-08-09-07-11_backup_content.part001.zip index:128
+[2024-08-09 07:11:46][notice]Compressing zip file:furiouzdesigns.wpenginepowered.com_wpvivid-66b5c123d4a85_2024-08-09-07-11_backup_content.part001.zip success. index:128 file size:522.94 KB
+[2024-08-09 07:11:46][notice]Backing up backup_content completed.
+[2024-08-09 07:11:46][notice]Prepare to backup backup_core files.
+[2024-08-09 07:11:46][notice]Compressing zip file:furiouzdesigns.wpenginepowered.com_wpvivid-66b5c123d4a85_2024-08-09-07-11_backup_core.part001.zip index:2671
+[2024-08-09 07:11:52][notice]Compressing zip file:furiouzdesigns.wpenginepowered.com_wpvivid-66b5c123d4a85_2024-08-09-07-11_backup_core.part001.zip success. index:2671 file size:13.85 MB
+[2024-08-09 07:11:52][notice]Backing up backup_core completed.
+[2024-08-09 07:11:52][notice]Prepare to backup backup_merge files.
+[2024-08-09 07:11:52][notice]Prepare to zip file. file: furiouzdesigns.wpenginepowered.com_wpvivid-66b5c123d4a85_2024-08-09-07-11_backup_db.zip
+[2024-08-09 07:11:52][notice]Adding zip files completed.furiouzdesigns.wpenginepowered.com_wpvivid-66b5c123d4a85_2024-08-09-07-11_backup_all.part001.zip, filesize: 170.13 KB
+[2024-08-09 07:11:52][notice]Prepare to zip file. file: furiouzdesigns.wpenginepowered.com_wpvivid-66b5c123d4a85_2024-08-09-07-11_backup_themes.zip
+[2024-08-09 07:11:52][notice]Adding zip files completed.furiouzdesigns.wpenginepowered.com_wpvivid-66b5c123d4a85_2024-08-09-07-11_backup_all.part001.zip, filesize: 11.41 MB
+[2024-08-09 07:11:52][notice]Prepare to zip file. file: furiouzdesigns.wpenginepowered.com_wpvivid-66b5c123d4a85_2024-08-09-07-11_backup_plugin.zip
+[2024-08-09 07:11:53][notice]Adding zip files completed.furiouzdesigns.wpenginepowered.com_wpvivid-66b5c123d4a85_2024-08-09-07-11_backup_all.part001.zip, filesize: 35.01 MB
+[2024-08-09 07:11:53][notice]Prepare to zip file. file: furiouzdesigns.wpenginepowered.com_wpvivid-66b5c123d4a85_2024-08-09-07-11_backup_uploads.zip
+[2024-08-09 07:11:55][notice]Adding zip files completed.furiouzdesigns.wpenginepowered.com_wpvivid-66b5c123d4a85_2024-08-09-07-11_backup_all.part001.zip, filesize: 70.39 MB
+[2024-08-09 07:11:55][notice]Prepare to zip file. file: furiouzdesigns.wpenginepowered.com_wpvivid-66b5c123d4a85_2024-08-09-07-11_backup_content.zip
+[2024-08-09 07:11:55][notice]Adding zip files completed.furiouzdesigns.wpenginepowered.com_wpvivid-66b5c123d4a85_2024-08-09-07-11_backup_all.part001.zip, filesize: 70.88 MB
+[2024-08-09 07:11:55][notice]Prepare to zip file. file: furiouzdesigns.wpenginepowered.com_wpvivid-66b5c123d4a85_2024-08-09-07-11_backup_core.zip
+[2024-08-09 07:11:56][notice]Adding zip files completed.furiouzdesigns.wpenginepowered.com_wpvivid-66b5c123d4a85_2024-08-09-07-11_backup_all.part001.zip, filesize: 84.37 MB
+[2024-08-09 07:11:56][notice]Backing up backup_merge completed.
+[2024-08-09 07:11:56][notice]Backup completed.
